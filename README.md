@@ -1,4 +1,4 @@
-# HW01
+# HW01 -Code Refactor
 Mate Tanczos HW1
 
 - For this website I used sementic HTML elements 
